@@ -1,0 +1,27 @@
+* Random walk to Brownian motion
+
+Brownian motion is the continuous-time limit of the random walk. Start with a random walk that moves, in each time step, with equal probability either a+bx or a-bx.
+
+In the long-time limit, what are the parameters of the Brownian motion to which this random walk converges?
+
+* Prove that the variance of a sum of independent random variables is the sum of the variances of the variables.
+
+Recall that two random variables X and Y are independent if <XY>=<X><Y>.
+
+* Prove that the variance of a standard random walk (moving +1 or -1 in each time step) is the number of time steps.
+How are the dimensions of time related to the dimensions of this variance?
+
+* Simulate 1,000 steps of a standard random walk, and plot its finite-time average.
+
+* Prove that the finite-time average of the Wiener process is distributed as N(0,T/3).
+(harder)
+
+* (Gaussian Central Limit Theorem) Prove that the rescaled sum, 1/sqrt{N} \sum_\tau^T x_\tau, of independent instances x_\tau of a random variable X converges to a Gaussian, provided the variance of X exists.
+
+* Prove Ito's formula
+
+* Prove that RGBM has an inverse-gamma stationary distribution for sufficiently large \tau. 
+What does it mean to be stationary for a distribution whose variance doesn't exist?
+What does it mean to be stationary for a distribution some of whose averages don't exist?
+
+* Compute the expectation value of a log-normal random variable.
