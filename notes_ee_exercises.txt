@@ -25,3 +25,8 @@ What does it mean to be stationary for a distribution whose variance doesn't exi
 What does it mean to be stationary for a distribution some of whose averages don't exist?
 
 * Compute the expectation value of a log-normal random variable.
+
+* Show that the expectation value of
+1. the St Petersburg payout; and
+2. Z such that p(z)=1/z^2 for z\geq1
+do not exist.
