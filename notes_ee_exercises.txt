@@ -30,3 +30,5 @@ What does it mean to be stationary for a distribution some of whose averages don
 1. the St Petersburg payout; and
 2. Z such that p(z)=1/z^2 for z\geq1
 do not exist.
+
+* Show that the law of large numbers holds for continuous random variables under the frequentist interpretation of probability.
