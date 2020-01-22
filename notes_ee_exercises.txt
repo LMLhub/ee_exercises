@@ -32,3 +32,5 @@ What does it mean to be stationary for a distribution some of whose averages don
 do not exist.
 
 * Show that the law of large numbers holds for continuous random variables under the frequentist interpretation of probability.
+
+* find the median and variance of a GBM.
