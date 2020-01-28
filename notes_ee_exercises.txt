@@ -34,3 +34,10 @@ do not exist.
 * Show that the law of large numbers holds for continuous random variables under the frequentist interpretation of probability.
 
 * find the median and variance of a GBM.
+
+* the fund manager detection problem: assume GBM for a stock market, and for a managed portfolio. How much outperformance, over how long, do you need for the probability of it being chance to be at most 5%?
+Extra question: what if market and portfolio are correlated?
+
+* assume you're tossing a fair coin once a millisecond to receive either nothing or two millicents.
+After a day, what's the distribution of money you've won?
+How does it compare to winning one millicent every millisecond (the expectation value).
