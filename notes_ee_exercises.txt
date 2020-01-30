@@ -50,3 +50,9 @@ How does it compare to winning one millicent every millisecond (the expectation 
 * Real pollen position data, model it with BM, see the differences (ballistic for short time etc).
 
 * stock market data, find optimal leverage. Do the same for simulated data, with known sigma and mu and note that optimal leverage will not be exactly mu_e/sigma^2.
+
+* verify that the rate of change of the inverse rate-one process is the growth rate. Try different values for gamma.
+
+* solve the SDE 
+d lnx = mu dt + sigma dW
+Find the expectation value of x (to note: there's a +1/2 sigma^2 correction).
