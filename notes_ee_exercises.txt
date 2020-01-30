@@ -16,6 +16,7 @@ How are the dimensions of time related to the dimensions of this variance?
 * Prove that the finite-time average of the Wiener process is distributed as N(0,T/3).
 (harder)
 
+
 * (Gaussian Central Limit Theorem) Prove that the rescaled sum, 1/sqrt{N} \sum_\tau^T x_\tau, of independent instances x_\tau of a random variable X converges to a Gaussian, provided the variance of X exists.
 
 * Prove Ito's formula
@@ -41,3 +42,11 @@ Extra question: what if market and portfolio are correlated?
 * assume you're tossing a fair coin once a millisecond to receive either nothing or two millicents.
 After a day, what's the distribution of money you've won?
 How does it compare to winning one millicent every millisecond (the expectation value).
+
+* simulate a power-law distributed random variable whose variance doesn't exist. Measure the sample-variance and study its sample-size dependence.
+
+* Give people data for several GBMs and one time series of stock-market returns. Let them find the stock market one, and offer a prize.
+
+* Real pollen position data, model it with BM, see the differences (ballistic for short time etc).
+
+* stock market data, find optimal leverage. Do the same for simulated data, with known sigma and mu and note that optimal leverage will not be exactly mu_e/sigma^2.
