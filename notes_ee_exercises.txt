@@ -56,3 +56,5 @@ How does it compare to winning one millicent every millisecond (the expectation 
 * solve the SDE 
 d lnx = mu dt + sigma dW
 Find the expectation value of x (to note: there's a +1/2 sigma^2 correction).
+
+* find optimal leverage for the Cramer dynamic.
