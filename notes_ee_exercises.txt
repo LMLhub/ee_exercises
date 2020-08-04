@@ -16,10 +16,11 @@ How are the dimensions of time related to the dimensions of this variance?
 * Prove that the finite-time average of the Wiener process is distributed as N(0,T/3).
 (harder)
 
-
 * (Gaussian Central Limit Theorem) Prove that the rescaled sum, 1/sqrt{N} \sum_\tau^T x_\tau, of independent instances x_\tau of a random variable X converges to a Gaussian, provided the variance of X exists.
 
 * Prove Ito's formula
+
+* Prove Eq.45 in "The sum of log-normal variates in geometric Brownian motion" (PetersAdamou2018).
 
 * Prove that RGBM has an inverse-gamma stationary distribution for sufficiently large \tau. 
 What does it mean to be stationary for a distribution whose variance doesn't exist?
