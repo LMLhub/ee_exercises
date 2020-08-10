@@ -61,3 +61,5 @@ Find the expectation value of x (to note: there's a +1/2 sigma^2 correction).
 * find optimal leverage for the Cramer dynamic.
 
 * derive results for cooperation by idiosyncratic entities and with correlated fluctuations.
+
+* add coordination costs to the cooperation model
