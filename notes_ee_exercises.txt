@@ -4,6 +4,9 @@ Brownian motion is the continuous-time limit of the random walk. Start with a ra
 
 In the long-time limit, what are the parameters of the Brownian motion to which this random walk converges?
 
+* Toss a fair coin, multiplicative dynamics. 
+Find the coin toss that corresponds to the GBM with mu and sigma.
+
 * Prove that the variance of a sum of independent random variables is the sum of the variances of the variables.
 
 Recall that two random variables X and Y are independent if <XY>=<X><Y>.
